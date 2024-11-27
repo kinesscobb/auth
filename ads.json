@@ -1,1 +1,18 @@
-{}
+{
+    "Passkey": {
+        "projectName": "Passkey",
+        "description": "passkey login",
+        "type": "community",
+        "author": "kinesscobb",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kinesscobb/auth",
+        "githubUri": "https://github.com/kinesscobb/auth",
+        "license": "apache-2.0",
+        "lastUpdated": "1732691768339",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
